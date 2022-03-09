@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "blog test!"
-date:   2022-03-09
-categories: sample
+title: post-sample
+date: 2022-03-09 19:20:23 +0900
+category: sample
 ---
-여기에 나만의 블로그 생성한다
+# post-sample
+> 블로그 테스트 중
 
-
-{% highlight ruby %}
+This is code
+```ruby
 print('hello world')
-{% endhighlight %}
+```
 
 블로그 키우기 고고
