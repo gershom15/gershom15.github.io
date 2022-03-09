@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "blog test!"
+date:   2022-03-09
+categories: sample
+---
+여기에 나만의 블로그 생성한다
+
+
+{% highlight ruby %}
+print('hello world')
+{% endhighlight %}
+
+블로그 키우기 고고
